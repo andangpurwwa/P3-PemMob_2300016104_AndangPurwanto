@@ -39,5 +39,4 @@ build/
 **/android/app/profile/
 **/android/app/release/
 
-# Laporan lokal (tidak di-push)
-LAPORAN_PRAKTIKUM_3.md
+

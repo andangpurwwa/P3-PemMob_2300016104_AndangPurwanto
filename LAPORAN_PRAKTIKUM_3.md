@@ -3,7 +3,7 @@
 
 **Nama:** Andang Purwanto  
 **NIM:** 2300016104  
-**Program Studi:** Informatika  
+**Program Studi:** Sistem Informasi  
 **Project Firebase ID:** `todo-p3-andang-16104`  
 **Kode Sumber (GitHub):** [https://github.com/andangpurwwa/P3-PemMob_2300016104_AndangPurwanto](https://github.com/andangpurwwa/P3-PemMob_2300016104_AndangPurwanto)  
 **Video Demo (Google Drive):** [https://drive.google.com/drive/folders/1L2nGQeCZ6dZWfOMlPcBGVKupgg8r4am9?usp=sharing](https://drive.google.com/drive/folders/1L2nGQeCZ6dZWfOMlPcBGVKupgg8r4am9?usp=sharing)

@@ -1,5 +1,13 @@
 # To-Do List Firestore (Praktikum 3)
 
+**Nama:** Andang Purwanto  
+**NIM:** 2300016104  
+**Program Studi:** Informatika  
+
+## Tautan Pengumpulan
+- **Kode sumber lengkap tersedia pada repository GitHub:** https://github.com/andangpurwwa/P3-PemMob_2300016104_AndangPurwanto
+- **Video demo aplikasi tersedia pada Google Drive:** https://drive.google.com/drive/folders/1L2nGQeCZ6dZWfOMlPcBGVKupgg8r4am9?usp=sharing
+
 Aplikasi Flutter To-Do List dengan Cloud Firestore, login Email/Password,
 tugas per pengguna, edit judul, dan tampilan tanggal.
 

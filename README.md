@@ -3,6 +3,7 @@
 **Nama:** Andang Purwanto  
 **NIM:** 2300016104  
 **Program Studi:** Sistem Informasi  
+**Nama Aplikasi:** `todo_app` (`com.example.todo_app`)  
 
 ## Tautan Pengumpulan
 - **Kode sumber lengkap tersedia pada repository GitHub:** https://github.com/andangpurwwa/P3-PemMob_2300016104_AndangPurwanto
